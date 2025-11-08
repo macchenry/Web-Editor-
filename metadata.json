@@ -1,0 +1,5 @@
+{
+  "name": "Live Web IDE",
+  "description": "A lightweight, browser-based IDE for writing HTML, CSS, and JavaScript with a live visual preview. Features include robust download/export options, project persistence, and a console for debugging.",
+  "requestFramePermissions": []
+}
